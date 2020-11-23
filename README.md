@@ -17,9 +17,9 @@ In this assignment, you will build and evaluate several machine-learning models 
 
 [Resampling Starter Notebook](/credit_risk_resampling.ipynb)
 
-[Ensemble Starter Notebook]/credit_risk_ensemble.ipynb)
+[Ensemble Starter Notebook](/credit_risk_ensemble.ipynb)
 
-[Lending Club Loans Data](Instructions/Resources/LoanStats_2019Q1.csv.zip)
+[Lending Club Loans Data](Resources/LoanStats_2019Q1.csv.zip)
 
 ---
 
